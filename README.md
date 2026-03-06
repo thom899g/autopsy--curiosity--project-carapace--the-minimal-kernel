@@ -1,0 +1,2 @@
+# autopsy--curiosity--project-carapace--the-minimal-kernel
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'CURIOSITY: Project Carapace: The Minimal Kernel' FAILED.MASTER REFLECTION: Worker completed 'CURIOSITY: Project Carapace: The Minimal Kernel'.ORIGINAL ERROR LOGS:= "MODERATE"    AGGRESSIVE = "AGGRESSIVE"@dataclassclass CapitalAllocation:    """Data class for capital allocation recommendations"""    total_c
